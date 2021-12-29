@@ -1,1 +1,1 @@
-# Python-Tetris-Game
+# Tetris
